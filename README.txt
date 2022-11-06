@@ -185,4 +185,7 @@ move models folder
 and rename models to ViewModels
 add project reference
 
+1538pm
+modify startup.cs file
+add file using ParthsBookStore.DataAccess.Data 
 
