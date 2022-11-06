@@ -171,3 +171,7 @@ I have remove some property from layout.cshtml line no 7, 23,27
 go to the loginpartial.cshtml file and remove text-dark from all lines
 add additional stylesheet from assignment2 file
 
+1521
+run code to see output..
+its successfully run 
+
