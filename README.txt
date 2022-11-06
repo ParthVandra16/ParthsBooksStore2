@@ -189,3 +189,10 @@ add project reference
 modify startup.cs file
 add file using ParthsBookStore.DataAccess.Data 
 
+1540pm
+get the error in error.cshtml file and homecontroller.cs file
+change this line in error.cshtml file to solve error
+"ParthsBooksStore2.Models.ViewModels.ErrorViewModel"
+
+
+
