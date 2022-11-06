@@ -219,3 +219,6 @@ change route in startup.cs file
 1604
 move homecontroller.cs file into the area>customers>Controller
 delete data and model folder
+
+1606
+edit homecontroller.cs file
