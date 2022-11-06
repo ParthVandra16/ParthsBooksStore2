@@ -223,3 +223,10 @@ delete data and model folder
 1606
 edit homecontroller.cs file
 modify homecontroller namespace
+
+run application..
+localhost not found
+
+1740pm
+I change "area=exists"to "area=Customers"
+its working..
