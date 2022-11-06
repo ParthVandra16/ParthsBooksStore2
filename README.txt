@@ -194,5 +194,12 @@ get the error in error.cshtml file and homecontroller.cs file
 change this line in error.cshtml file to solve error
 "ParthsBooksStore2.Models.ViewModels.ErrorViewModel"
 
+1542pm
+also add this line into homecontroller.cs file to solve error
+ParthsBookStore.Models.ViewModels.ErrorViewModel
+
+1544pm
+Build project and run
+its runn
 
 
