@@ -206,6 +206,10 @@ its runn
 add SD.cs class in the utility project
 change property
 
-155pm
+1558pm
 add project reference utility to main project
 add project referenece dataaccess with models and utility
+
+1600pm
+Add area customers in the Area
+
