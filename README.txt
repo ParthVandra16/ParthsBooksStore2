@@ -213,3 +213,6 @@ add project referenece dataaccess with models and utility
 1600pm
 Add area customers in the Area
 
+1602pm
+change route in startup.cs file
+
