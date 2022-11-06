@@ -222,3 +222,4 @@ delete data and model folder
 
 1606
 edit homecontroller.cs file
+modify homecontroller namespace
