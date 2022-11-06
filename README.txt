@@ -162,4 +162,6 @@ run web application
 
 1512pm
 change startup.cs file 
+go to the Boostwatch website and download minty theme bootstrap.css file
+and change bootstrap.css and Site.css file
 
