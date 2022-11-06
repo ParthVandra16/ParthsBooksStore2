@@ -171,7 +171,18 @@ I have remove some property from layout.cshtml line no 7, 23,27
 go to the loginpartial.cshtml file and remove text-dark from all lines
 add additional stylesheet from assignment2 file
 
-1521
+1521pm
 run code to see output..
 its successfully run 
+
+1525pm
+add Three new projects
+move data folder
+install packages
+delete migration folder
+delete class1.cs file from three new project
+move models folder
+and rename models to ViewModels
+add project reference
+
 
