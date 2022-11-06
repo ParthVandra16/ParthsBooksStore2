@@ -205,3 +205,7 @@ its runn
 1555pm
 add SD.cs class in the utility project
 change property
+
+155pm
+add project reference utility to main project
+add project referenece dataaccess with models and utility
