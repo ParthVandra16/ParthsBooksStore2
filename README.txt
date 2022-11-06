@@ -216,3 +216,6 @@ Add area customers in the Area
 1602pm
 change route in startup.cs file
 
+1604
+move homecontroller.cs file into the area>customers>Controller
+delete data and model folder
