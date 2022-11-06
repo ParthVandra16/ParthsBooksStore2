@@ -160,3 +160,6 @@ create readme.txt file
 Create GITHUB Repository named ParthsBookStore and publish 
 run web application
 
+1512pm
+change startup.cs file 
+
