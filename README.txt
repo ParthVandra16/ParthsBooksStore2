@@ -202,4 +202,6 @@ ParthsBookStore.Models.ViewModels.ErrorViewModel
 Build project and run
 its runn
 
-
+1555pm
+add SD.cs class in the utility project
+change property
