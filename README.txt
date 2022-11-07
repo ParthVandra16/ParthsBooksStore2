@@ -258,5 +258,12 @@ modify database name in the appsettings.json
 Add migration for ParthsBooks.DataAcess project
 "Migration File Name:20221107174413_AddDefaultIdentityMigration.cs"
 
+1248pm
+Review new migration file
+update database
+review update database in the SQL server object explorer.
+run application.
+its successfully run
+
 
 
