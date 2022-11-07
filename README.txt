@@ -254,5 +254,9 @@ Build succeeded
 1240pm
 modify database name in the appsettings.json
 
+1245pm
+Add migration for ParthsBooks.DataAcess project
+"Migration File Name:20221107174413_AddDefaultIdentityMigration.cs"
+
 
 
