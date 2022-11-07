@@ -239,3 +239,20 @@ delete model and data folder
 1230pm
 Assignment2 Part 1 Suceessfully running
 now move to the Assignment2 Part2
+
+***********************************************************************************
+								ASSIGNMENT2 PART2
+***********************************************************************************
+
+2022-11-07
+1232PM
+
+Assignment part2 start
+Build Application to confirm that there is no error
+Build succeeded
+
+1240pm
+modify database name in the appsettings.json
+
+
+
