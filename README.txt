@@ -269,6 +269,11 @@ its successfully run
 Add new class in the models project named: Category.cs
 add contain in the category.cs file
 
+1300pm
+Add migration for Category.cs class
+
+
+
 
 
 
