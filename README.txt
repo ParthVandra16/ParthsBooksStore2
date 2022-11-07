@@ -265,5 +265,11 @@ review update database in the SQL server object explorer.
 run application.
 its successfully run
 
+1257pm
+Add new class in the models project named: Category.cs
+add contain in the category.cs file
+
+
+
 
 
