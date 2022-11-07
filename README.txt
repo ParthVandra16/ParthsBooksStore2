@@ -235,3 +235,7 @@ its working..
 1220pm
 add admin area in the AREA
 delete model and data folder
+
+1230pm
+Assignment2 Part 1 Suceessfully running
+now move to the Assignment2 Part2
