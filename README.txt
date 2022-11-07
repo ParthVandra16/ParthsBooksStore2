@@ -230,3 +230,8 @@ localhost not found
 1740pm
 I change "area=exists"to "area=Customers"
 its working..
+
+07 nov 2022
+1220pm
+add admin area in the AREA
+delete model and data folder
