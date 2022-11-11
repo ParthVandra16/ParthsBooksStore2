@@ -272,6 +272,16 @@ add contain in the category.cs file
 1300pm
 Add migration for Category.cs class
 
+2022-11-11
+0800AM
+
+clone repo from github
+rebuild app
+get the error in the application dbcotext file..
+
+error solve because i forget to write public keyword while declare category class
+
+
 
 
 
