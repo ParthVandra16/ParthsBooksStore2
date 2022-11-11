@@ -294,6 +294,7 @@ add interface IRepository.cs
  
 0838am
 modify IRepository.cs file
+modify IRepository.cs file to operate crud operation
 
 
 
