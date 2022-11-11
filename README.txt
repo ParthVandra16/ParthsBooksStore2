@@ -303,6 +303,8 @@ Solve error use of using statement by implement interface
 0857AM
 create constructor and dependency injection into Repository.cs
 
+0914
+modify CategoryRepository.cs and ICategoryRepository.cs
 
 
 
