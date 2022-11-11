@@ -281,6 +281,12 @@ get the error in the application dbcotext file..
 
 error solve because i forget to write public keyword while declare category class
 
+0821AM
+update database
+
+
+
+
 
 
 
