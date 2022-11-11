@@ -312,3 +312,8 @@ solve error use of using statement genrate the Public object id in the category.
 Create new ISP_CALL.cs interface in the IRepository
 install nuget package for dapper
 write code from tutorial
+
+1124am
+ADD new class SP_Call.cs in the Repository folder
+ADD connection to the database
+write code from tutorial
