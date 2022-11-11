@@ -305,7 +305,8 @@ create constructor and dependency injection into Repository.cs
 
 0914
 modify CategoryRepository.cs and ICategoryRepository.cs
-
+get error in the CategoryRepository.cs file 
+solve error use of using statement genrate the Public object id in the category.cs file
 
 
 
