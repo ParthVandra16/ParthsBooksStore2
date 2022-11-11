@@ -296,6 +296,15 @@ add interface IRepository.cs
 modify IRepository.cs file
 modify IRepository.cs file to operate crud operation
 
+0847am
+Add repository.cs class in the Repository folder and modify
+Solve error use of using statement by implement interface
+
+0857AM
+create constructor and dependency injection into Repository.cs
+
+
+
 
 
 
