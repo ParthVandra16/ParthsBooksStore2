@@ -308,14 +308,7 @@ modify CategoryRepository.cs and ICategoryRepository.cs
 get error in the CategoryRepository.cs file 
 solve error use of using statement genrate the Public object id in the category.cs file
 
-
-
-
-
-
-
-
-
-
-
-
+0959AM
+Create new ISP_CALL.cs interface in the IRepository
+install nuget package for dapper
+write code from tutorial
