@@ -320,3 +320,11 @@ write code from tutorial
 
 1156am
 Add wrapper for unit work
+
+1209pm
+add new interface UnitOfWork.cs in the IRepository folder 
+write code in the UnitOfWork.cs interface from the tutorial
+
+1213pm
+add UnitOfWork.cs class in the Repository
+get the error in UnitOfWork.cs class

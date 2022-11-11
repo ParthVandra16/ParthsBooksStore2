@@ -31,11 +31,13 @@ namespace ParthsBooksStore2
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
+            //services.AddDatabaseDeveloperPageExceptionFilter();
 
             //services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
+            //services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddRazorPages();
         }
 
