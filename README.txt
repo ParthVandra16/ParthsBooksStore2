@@ -285,7 +285,16 @@ error solve because i forget to write public keyword while declare category clas
 update database
 
 0826am
-Assignmnet2 part2 2.1 complete
+Assignmnet2 part2 2.1 complete:)
+
+0829am
+Start part 2.1
+craete Repository and IRepository folder inside the dataaccess project
+add interface IRepository.cs
+ 
+0838am
+modify IRepository.cs file
+
 
 
 
