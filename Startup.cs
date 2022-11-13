@@ -1,3 +1,4 @@
+using Abp.Domain.Uow;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -8,6 +9,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ParthsBooksStore2.DataAccess.Data;
+using ParthsBooks.DataAccess.Repository;
+using ParthsBooks.DataAccess.Repository.IRepository;
 //using ParthsBooksStore2.Data;
 using System;
 using System.Collections.Generic;
@@ -37,7 +40,7 @@ namespace ParthsBooksStore2
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
-            //services.AddScoped<IUnitOfWork, UnitOfWork>();
+           // services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddRazorPages();
         }
 
