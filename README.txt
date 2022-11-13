@@ -328,3 +328,7 @@ write code in the UnitOfWork.cs interface from the tutorial
 1213pm
 add UnitOfWork.cs class in the Repository
 get the error in UnitOfWork.cs class
+
+2022-11-13
+1737pm
+add empty razor view
