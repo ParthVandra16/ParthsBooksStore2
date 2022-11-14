@@ -340,3 +340,6 @@ add code form assignment2 file
 
 2232pm
 change content in layout.cshtml file
+
+2239pm
+modify index.cshtml in the category section font awesome
