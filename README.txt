@@ -343,3 +343,6 @@ change content in layout.cshtml file
 
 2239pm
 modify index.cshtml in the category section font awesome
+
+2259pm
+add javascript file from ass2 file
