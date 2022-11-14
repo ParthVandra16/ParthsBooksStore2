@@ -1,4 +1,5 @@
-﻿
+﻿@model ParthsBooks.Models.Category;
+
 @{
     ViewData["Title"] = "Upsert";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -21,6 +22,16 @@
             <div class="form-group row">
                 <div class="col-8 offset-4">
                     EDIT | BACK
+                </div>
+                <div class="col-8 offset-4">
+                    @if(Model.Id != 0)
+                    {
+                        <partial name="_EditAndBackToListButton" model="Model.Id" />
+                    }
+                    else
+                    {
+                        <partial name="_CreateAndBackToListButton" model="Model.Id" />
+                    }
                 </div>
             </div>
         </div>

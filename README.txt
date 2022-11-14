@@ -361,3 +361,6 @@ add partialview edit and back button
 
 2326pm
 create another editpartialview edit and note code addition @model
+
+2343pm
+modify upsert.cshtml and add asp action in the index,cshtml file
