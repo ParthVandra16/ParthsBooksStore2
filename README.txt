@@ -337,3 +337,6 @@ add empty razor view
 
 2220pm
 add code form assignment2 file
+
+2232pm
+change content in layout.cshtml file

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParthsBooksStore2", "ParthsBooksStore2.csproj", "{6A7538E1-78FB-441C-8B36-F55B841B91BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParthsBooksStore2", "ParthsBooksStore2.csproj", "{6A7538E1-78FB-441C-8B36-F55B841B91BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParthsBooks.DataAccess", "..\ParthsBooks.DataAccess\ParthsBooks.DataAccess.csproj", "{D8924E5F-9407-4E66-943F-9F7DC22F4906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParthsBooks.DataAccess", "..\ParthsBooks.DataAccess\ParthsBooks.DataAccess.csproj", "{D8924E5F-9407-4E66-943F-9F7DC22F4906}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParthsBooks.Models", "..\ParthsBooks.Models\ParthsBooks.Models.csproj", "{59D4A146-2253-47C3-B951-36B84495A263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParthsBooks.Models", "..\ParthsBooks.Models\ParthsBooks.Models.csproj", "{59D4A146-2253-47C3-B951-36B84495A263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParthsBooks.Utility", "..\ParthsBooks.Utility\ParthsBooks.Utility.csproj", "{7226F13E-2909-4BD5-A477-A4B3EEB4917E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParthsBooks.Utility", "..\ParthsBooks.Utility\ParthsBooks.Utility.csproj", "{7226F13E-2909-4BD5-A477-A4B3EEB4917E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
