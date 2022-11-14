@@ -1,4 +1,4 @@
-using Abp.Domain.Uow;
+//using Abp.Domain.Uow;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -39,8 +39,8 @@ namespace ParthsBooksStore2
             //services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddControllersWithViews();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddControllersWithViews(); 
             services.AddRazorPages();
         }
 

@@ -330,5 +330,10 @@ add UnitOfWork.cs class in the Repository
 get the error in UnitOfWork.cs class
 
 2022-11-13
+
 1737pm
+add mvc controller
 add empty razor view
+
+2220pm
+add code form assignment2 file
