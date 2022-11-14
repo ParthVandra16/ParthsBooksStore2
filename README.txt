@@ -346,3 +346,6 @@ modify index.cshtml in the category section font awesome
 
 2259pm
 add javascript file from ass2 file
+
+2301pm
+link js file to index.cshtml file
