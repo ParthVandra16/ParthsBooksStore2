@@ -373,3 +373,6 @@ create upsert post action method
 
 1205am
 add API
+
+1208am
+implement HTTPDelete in the category.js
