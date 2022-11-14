@@ -352,3 +352,6 @@ link js file to index.cshtml file
 
 2308
 apply code to activate edit and delete in the categorycontroller.cs
+
+2312pm
+add razor view for upsert and copy code fron assignment2 file
