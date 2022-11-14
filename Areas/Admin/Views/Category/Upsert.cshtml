@@ -1,12 +1,20 @@
-﻿@model ParthsBooks.Models.Category;
+﻿
 
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
 @{
-    ViewData["Title"] = "Upsert";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = "Create Category";
 }
-
 <form method="post">
     <div class="row p-3 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.Id != null)
+        {
+            //edit
+            title = "Edit Category";
+        }
         <div class="col-12 border-bottom">
             <h2 class="text-primary">TITLE</h2>
         </div>
@@ -21,20 +29,21 @@
             </div>
             <div class="form-group row">
                 <div class="col-8 offset-4">
-                    EDIT | BACK
-                </div>
-                <div class="col-8 offset-4">
-                    @if(Model.Id != 0)
+                    @if (Model.Id != 0)
                     {
                         <partial name="_EditAndBackToListButton" model="Model.Id" />
                     }
                     else
                     {
-                        <partial name="_CreateAndBackToListButton" model="Model.Id" />
+                        <partial name="_CreateAndBackToListButton" />
                     }
+                    EDIT | BACK
                 </div>
             </div>
         </div>
     </div>
 </form>
 
+@section Script{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -364,3 +364,9 @@ create another editpartialview edit and note code addition @model
 
 2343pm
 modify upsert.cshtml and add asp action in the index,cshtml file
+
+2345
+add script file in the upsert.cshtml
+
+1203am
+create upsert post action method

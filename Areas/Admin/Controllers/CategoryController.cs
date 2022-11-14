@@ -45,6 +45,26 @@ namespace ParthsBooksStore2.Areas.Admin.Controllers
             return View();
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Category category)
+        {
+            if (ModelState.IsValid) // checks all validation in the model to increase security
+            {
+                if (category.id == 0)
+                {
+                    _unitOfWork.Category.Add(category);
+                    _unitOfWork.Save();
+                }
+                else
+                {
+                    _unitOfWork.Category.update(category);
+                }
+                _unitOfWork.Save();
+                return RedirectToAction(nameof(Index));  // to savew all the catogaries
+            }
+            return View(category);
+        }
         // API calls here
         #region API CALLS
         [HttpGet]
