@@ -379,3 +379,6 @@ implement HTTPDelete in the category.js
 
 1210am
 add Delete function code in category.js
+
+0139am
+run code
