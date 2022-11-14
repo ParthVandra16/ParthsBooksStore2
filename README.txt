@@ -358,3 +358,6 @@ add razor view for upsert and copy code fron assignment2 file
 
 2322pm
 add partialview edit and back button
+
+2326pm
+create another editpartialview edit and note code addition @model
