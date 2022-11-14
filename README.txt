@@ -355,3 +355,6 @@ apply code to activate edit and delete in the categorycontroller.cs
 
 2312pm
 add razor view for upsert and copy code fron assignment2 file
+
+2322pm
+add partialview edit and back button

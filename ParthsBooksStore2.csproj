@@ -31,4 +31,8 @@
     <ProjectReference Include="..\ParthsBooks.Utility\ParthsBooks.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Category\" />
+  </ItemGroup>
+
 </Project>
