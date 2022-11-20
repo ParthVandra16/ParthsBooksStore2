@@ -390,4 +390,31 @@ run code..
 its showing 0 error but when the category page cannot load 
 i got this exception handling when i click category page
 "InvalidOperationException: RenderSectionAsync invocation in '/Views/Shared/_Layout.cshtml' is invalid. The section 'Scripts' has already been rendered."
+i have did migration again using differnet name
+"20221114063233_RecreateTheDatabase.cs"
+"20221118175302_AddCatToDB"
+but database cannot show inside the SQL server object explorer
 
+again i did migration with different name
+"20221118180305_RecreateTheDatabase1.cs"
+but its not working properly.
+
+
+2004pm
+i delete all the migration from DataAccess project inside the migration folder
+
+2012pm
+Add new mgration with new name
+"20221120011122_AddCategoryToDatabase.cs"
+update database..
+build successfull
+
+Add migration 
+"20221120011609_AddCatToDb.cs"
+update database 
+build successfully
+done.
+
+2017pm
+cheack database in the sql server object explorer
+database not showing.
