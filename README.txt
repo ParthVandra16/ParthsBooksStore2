@@ -382,3 +382,12 @@ add Delete function code in category.js
 
 0139am
 run code
+
+19 Nov 2022
+2001pm
+clone the repository from github
+run code..
+its showing 0 error but when the category page cannot load 
+i got this exception handling when i click category page
+"InvalidOperationException: RenderSectionAsync invocation in '/Views/Shared/_Layout.cshtml' is invalid. The section 'Scripts' has already been rendered."
+
