@@ -438,3 +438,5 @@ add covertype.cs in the model folder
 1655pm
 add ICoverTypeRepository and CoverTypeRepository repository
 
+1658
+add Product class in the model
