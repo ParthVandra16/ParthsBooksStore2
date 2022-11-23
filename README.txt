@@ -432,3 +432,9 @@ after that i search on google this line add three script line in the layout.csht
 
 after that its run but cannot add data in the category.
 
+1648pm
+add covertype.cs in the model folder
+
+1655pm
+add ICoverTypeRepository and CoverTypeRepository repository
+
