@@ -440,3 +440,6 @@ add ICoverTypeRepository and CoverTypeRepository repository
 
 1658
 add Product class in the model
+
+1704pm
+write code for product.cs
