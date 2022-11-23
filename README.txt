@@ -443,3 +443,6 @@ add Product class in the model
 
 1704pm
 write code for product.cs
+
+1708pm
+Add referennce product to ApplicationDbContext 
