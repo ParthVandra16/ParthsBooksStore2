@@ -418,3 +418,17 @@ done.
 2017pm
 cheack database in the sql server object explorer
 database not showing.
+
+2022-11-23
+1617PM
+when i click Category page its shows exception 
+"InvalidOperationException: RenderSectionAsync invocation in '/Views/Shared/_Layout.cshtml' is invalid. The section 'Scripts' has already been rendered."
+
+after that i search on google this line add three script line in the layout.cshtml
+
+ @RenderSection("featured", false)
+    @RenderBody()
+    @RenderSection("scripts", false)
+
+after that its run but cannot add data in the category.
+
