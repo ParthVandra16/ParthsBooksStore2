@@ -446,3 +446,6 @@ write code for product.cs
 
 1708pm
 Add referennce product to ApplicationDbContext 
+
+1712
+Add ProductRepository class and IProductRepository interface
