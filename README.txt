@@ -434,6 +434,7 @@ after that its run but cannot add data in the category.
 
 1648pm
 add covertype.cs in the model folder
+add product to db
 
 1655pm
 add ICoverTypeRepository and CoverTypeRepository repository
