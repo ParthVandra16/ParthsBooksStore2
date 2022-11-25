@@ -457,3 +457,8 @@ install packages
 2221
 add new index view
 modify layout.cshtml
+
+2224
+add product controller
+and modify
+
