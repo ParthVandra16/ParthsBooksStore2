@@ -452,3 +452,8 @@ Add ProductRepository class and IProductRepository interface
 
 2156
 add product VM class
+install packages
+
+2221
+add new index view
+modify layout.cshtml
