@@ -449,3 +449,6 @@ Add referennce product to ApplicationDbContext
 
 1712
 Add ProductRepository class and IProductRepository interface
+
+2156
+add product VM class
