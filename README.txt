@@ -464,7 +464,14 @@ add product controller
 and modify
 
 2022-04-12
+1225pm
 Clone Repository
 start cheack code in the ParthsBooks.Dataaccess project from sir repository
 no error in the Dataaccess project
 code is similar to sir repository.
+
+1240pm
+cheack code of ParthsBooks.Models project
+no error
+
+
