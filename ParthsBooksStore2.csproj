@@ -8,9 +8,13 @@
 
   <ItemGroup>
     <Compile Remove="Controllers\**" />
+    <Compile Remove="Views\Category\**" />
     <Content Remove="Controllers\**" />
+    <Content Remove="Views\Category\**" />
     <EmbeddedResource Remove="Controllers\**" />
+    <EmbeddedResource Remove="Views\Category\**" />
     <None Remove="Controllers\**" />
+    <None Remove="Views\Category\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,10 +33,6 @@
     <ProjectReference Include="..\ParthsBooks.DataAccess\ParthsBooks.DataAccess.csproj" />
     <ProjectReference Include="..\ParthsBooks.Models\ParthsBooks.Models.csproj" />
     <ProjectReference Include="..\ParthsBooks.Utility\ParthsBooks.Utility.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Category\" />
   </ItemGroup>
 
 </Project>

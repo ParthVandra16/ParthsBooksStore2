@@ -483,3 +483,7 @@ cheack startup.cs and program.cs file
 no error
 cheack loginpartial.cshtml and Layout.cshtml file
 
+1324pm
+cheack file in main project 
+mo error 
+but output not showing properly.
