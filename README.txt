@@ -463,3 +463,7 @@ modify layout.cshtml
 add product controller
 and modify
 
+2022-04-12
+Clone Repository
+start cheack code in the ParthsBooks.Dataaccess project from sir repository
+
