@@ -478,3 +478,8 @@ no error
 cheack code of ParthsBooks.Utility project
 no error
 
+1256pm
+cheack startup.cs and program.cs file
+no error
+cheack loginpartial.cshtml and Layout.cshtml file
+
