@@ -465,17 +465,10 @@ and modify
 
 2022-04-12
 1225pm
-Start part4
-
-1232
 Clone Repository
 start cheack code in the ParthsBooks.Dataaccess project from sir repository
 no error in the Dataaccess project
 code is similar to sir repository.
-
-1235
-start to write code for product
-complete product code
 
 1240pm
 cheack code of ParthsBooks.Models project
